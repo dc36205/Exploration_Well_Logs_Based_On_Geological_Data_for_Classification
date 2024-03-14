@@ -47,3 +47,6 @@ Dataset - 2
 * sklearn
 
 # 4. Results
+
+![](https://github.com/dc36205/Exploration_Well_Logs_Based_On_Geological_Data_for_Classification/blob/master/imgs/Correlation-Matrix-Pearson_Pozo-1.png)
+
