@@ -9,7 +9,7 @@ With the support of Computational Intelligence Techniques (CIT), the possibiliti
 
 In this project were used two datasets of 24,290 and 12,255 rows respectively, totaling 36,545 records between the two exploratory wells at different depths.
 
-Table of Contents
+# Table of Contents
 
 * [Problem Statement](#introduction)
 * [Data Description](#data)
