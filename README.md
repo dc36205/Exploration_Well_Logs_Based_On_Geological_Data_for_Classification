@@ -18,7 +18,7 @@ In this project were used two datasets of 24,290 and 12,255 rows respectively, t
 * [Analysis](#analysis)
 * [Results and Discussion](#results)
 * [Conclusion](#conclusion)
-
+----------------------------------------------
 # 1. Problem Statement
 
 The main objective of this project is to analyze well logs and classify them into one of the two existing categories.
