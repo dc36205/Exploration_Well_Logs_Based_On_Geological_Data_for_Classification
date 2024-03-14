@@ -55,8 +55,6 @@ The steps described below were followed:
 * Clustering
 * Supervised Learning
 * Model Evaluation
-* Predictions and evaluation
-
 
 # 4. Requirements <a name="requirements"></a>
 
