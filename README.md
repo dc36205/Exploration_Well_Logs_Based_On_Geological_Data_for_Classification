@@ -45,7 +45,20 @@ Dataset - 2
 
 ### Inputs dataset - 2: with an extensive long list of attributes up to 113
 
-# 3. Technical Requirements
+# 3. Methodology <a name="methodology"></a>
+
+The steps described below were followed:
+
+* Data Exploration and Cleaning 
+* Feature Engineering
+* Dimensionality Reduction
+* Clustering
+* Supervised Learning
+* Model Evaluation
+* Predictions and evaluation
+
+
+# 4. Requirements <a name="requirements"></a>
 
 ### Installed libraries
 * pandas
@@ -54,7 +67,15 @@ Dataset - 2
 * matplotlib
 * sklearn
 
-# 4. Results
+# 5. Analysis
+
+
+
+# 6. Results and Discussion
 
 ![](https://github.com/dc36205/Exploration_Well_Logs_Based_On_Geological_Data_for_Classification/blob/master/imgs/Correlation-Matrix-Pearson_Pozo-1.png)
+
+
+
+# 7. Conclusion
 
