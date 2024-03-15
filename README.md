@@ -1,4 +1,4 @@
-Exploration Well Logs Based On Geological Data for Classification
+Study Well Logs Based On Geological Data for Classification
 =================
 
 Brief introduction:
