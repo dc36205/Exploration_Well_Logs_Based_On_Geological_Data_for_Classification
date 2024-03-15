@@ -47,7 +47,7 @@ Dataset - 2
 
 # 3. Methodology <a name="methodology"></a>
 
-The steps described below were followed:
+The activities undertaken in general to complete this project are named below:
 
 * Data Exploration and Cleaning 
 * Feature Engineering
@@ -65,15 +65,10 @@ The steps described below were followed:
 * matplotlib
 * sklearn
 
-# 5. Analysis
-
-
-
-# 6. Results and Discussion
+# 5. Some results
 
 ![](https://github.com/dc36205/Exploration_Well_Logs_Based_On_Geological_Data_for_Classification/blob/master/imgs/Correlation-Matrix-Pearson_Pozo-1.png)
 
 
 
-# 7. Conclusion
 
